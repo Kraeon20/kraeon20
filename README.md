@@ -38,7 +38,7 @@
 ---
 
 ### 🌟 Featured Projects
-- 🕵️‍♂️ **[ScrapeHaven](#)** – Automated large-scale scraping pipeline with data cleaning.  
+- 🕵️‍♂️ **[ScrapeHaven](#)** – Automated large-scale scraping pipeline from google maps to get businesses information including (name, address, phone number, email, linedin, facebook, X, instagram) with data cleaning .  
 - 🔗 **[LinkedIn Scraper](#)** – Playwright-powered tool for extracting professional profile data safely and efficiently.  
 - 📊 **[ETL Dashboard](#)** – SQL + Python pipeline with interactive charts.  
 - 🤖 **[Automation Tools](#)** – Scripts that save hours of manual work.  

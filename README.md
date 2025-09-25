@@ -6,10 +6,6 @@
 
 ---
 
-![snake gif](https://github.com/Kraeon20/Kraeon20/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🧑‍💻 About Me
 - 🌍 Passionate about **turning messy data into useful insights**
 - 🕸️ Experienced in **web scraping, APIs, and ETL pipelines**

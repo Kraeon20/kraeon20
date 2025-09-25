@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Williams (aka Kraeon20)
+# 👋 Hi, I'm Williams
 
 ## 🚀 Web Scraping Specialist | 💻 Software Developer | 📊 Database Analyst
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kraeon20&color=blueviolet&style=flat-square)
+
+---
+
+![snake gif](https://github.com/Kraeon20/Kraeon20/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Experience
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)
